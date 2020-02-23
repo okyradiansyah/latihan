@@ -1,6 +1,6 @@
 #include <iostream> // library standar yang digunakan untuk input dan output
 //I.S Program Sederhana I
-//F.S Menampilkan sebauh text di dalam program
+//F.S Menampilkan sebuah text di dalam program
 
 using namespace std;
 
